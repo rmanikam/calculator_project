@@ -1,0 +1,148 @@
+.outerContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  
+}
+
+.display_container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: burlywood;
+  margin: 5px;
+  padding: 10px;
+  width: 115px;
+  height: 31px;
+ 
+}
+.innerContainer
+{
+    border:1px solid black;
+}
+.row_1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 142px;
+  margin-top: -5px;
+  
+}
+
+.row_2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 142px;
+}
+
+.row_3 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 142px;
+}
+
+.row_4 {
+  display: flex;
+  align-items: center;
+  width: 142px;
+  justify-content: center;
+}
+
+.row_5 {
+  display: flex;
+  align-items: center;
+  width: 142px;
+  justify-content: center;
+}
+div.on_off {
+  width: 33px;
+}
+
+div.plus_minus {
+  width: 33px;
+}
+
+div.percentage {
+  width: 33px;
+}
+p {
+  text-align: center;
+}
+
+div.divide {
+  width: 33px;
+  background-color: brown;
+}
+
+div.numberSeven {
+  width: 33px;
+}
+
+div.numberEight {
+  width: 33px;
+}
+
+div.numberNine {
+  width: 33px;
+}
+
+div.Star {
+  width: 33px;
+  background-color: brown;
+  margin-top: -1px;
+}
+
+div.numberFour {
+  width: 33px;
+}
+
+div.numberFive {
+  width: 33px;
+}
+
+div.numberSix {
+  width: 33px;
+}
+
+div.minusSign {
+  width: 33px;
+  background-color: brown;
+  margin-top: -1px;
+}
+
+div.numberOne {
+  width: 33px;
+}
+
+div.numberTwo {
+  width: 33px;
+}
+
+div.numberThree {
+  width: 33px;
+}
+
+div.plusSign {
+  width: 33px;
+  background-color: brown;
+  margin-top: -1px;
+}
+
+div.numberZero {
+  width: 66px;
+}
+
+div.decimalPoint {
+  width: 33px;
+}
+
+div.equalSign {
+  width: 33px;
+  background-color: brown;
+  margin-top: -2px;
+  margin-bottom: -1px;
+ 
+}
